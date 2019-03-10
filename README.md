@@ -10,7 +10,7 @@ The general requirements for this project are as follows:
 - pandas
 - matplotlib
 - seaborn
-- sci-kit learn
+- scikit-learn
 
 ## Contents
 
